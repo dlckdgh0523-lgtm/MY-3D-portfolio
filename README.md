@@ -79,6 +79,7 @@ index.html
 package.json
 vite.config.ts
 ATTRIBUTIONS.md
+```
 
-## 영상
+## 영상 링크
 https://blog.naver.com/moodie_lv3/224212585324
